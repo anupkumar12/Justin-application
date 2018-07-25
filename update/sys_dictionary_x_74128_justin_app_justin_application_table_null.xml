@@ -53,7 +53,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-07-25 16:03:57</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>41a693c50f6b130031accd8ce1050e36</sys_id>
+        <sys_id>f1a75f45db231340a49f7d9ebf961978</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_74128_justin_app_justin_application_table</sys_name>
         <sys_package display_value="Justin_application" source="x_74128_justin_app">c1c39f41db231340a49f7d9ebf961973</sys_package>
@@ -62,7 +62,7 @@
         <sys_scope display_value="Justin_application">c1c39f41db231340a49f7d9ebf961973</sys_scope>
         <sys_update_name>sys_dictionary_x_74128_justin_app_justin_application_table_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-07-25 16:16:29</sys_updated_on>
+        <sys_updated_on>2018-07-25 16:20:54</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

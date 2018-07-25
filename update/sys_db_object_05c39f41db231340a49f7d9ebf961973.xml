@@ -17,8 +17,10 @@
         <number_ref display_value="JUS">7dc3d381db231340a49f7d9ebf96192b</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Change Request" name="change_request">a6fb6c720f20020031accd8ce1050e92</super_class>
+        <super_class display_value="Change Request" name="change_request">ee2d74c2db312200a49f3d9ebf961921</super_class>
+        <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-07-25 16:03:56</sys_created_on>
         <sys_customer_update>false</sys_customer_update>

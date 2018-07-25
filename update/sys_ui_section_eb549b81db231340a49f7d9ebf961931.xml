@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_section caption="Schedule" section_id="eb549b81db231340a49f7d9ebf961931" sys_domain="global" table="x_74128_justin_app_justin_application_table" version="3" view="emergencyChange">
+    <sys_ui_section caption="Schedule" section_id="eb549b81db231340a49f7d9ebf961931" sys_domain="global" table="x_74128_justin_app_justin_application_table" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
             <position>0</position>
@@ -193,7 +193,7 @@
             <sys_updated_on>2018-07-25 16:06:32</sys_updated_on>
             <sys_user/>
             <title>false</title>
-            <view display_value="Emergency" name="emergencyChange">7964e0530a0a0b8c00ae51f470e50465</view>
+            <view display_value="">7964e0530a0a0b8c00ae51f470e50465</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>
