@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="e754df81db231340a49f7d9ebf961979" sys_domain="global" table="x_74128_justin_app_justin_application_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 16:06:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a354df81db231340a49f7d9ebf96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_74128_justin_app_justin_application_table" name="x_74128_justin_app_justin_application_table" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">e754df81db231340a49f7d9ebf961979</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_74128_justin_app_justin_application_table" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">2f54df81db231340a49f7d9ebf96197b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 16:06:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 16:06:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab54df81db231340a49f7d9ebf961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_74128_justin_app_justin_application_table" name="x_74128_justin_app_justin_application_table" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">e754df81db231340a49f7d9ebf961979</sys_ui_form>
+            <sys_ui_section caption="Planning" display_value="Planning" name="x_74128_justin_app_justin_application_table" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">a754df81db231340a49f7d9ebf96197f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 16:06:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 16:06:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2754df81db231340a49f7d9ebf961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_74128_justin_app_justin_application_table" name="x_74128_justin_app_justin_application_table" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">e754df81db231340a49f7d9ebf961979</sys_ui_form>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_74128_justin_app_justin_application_table" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">af54df81db231340a49f7d9ebf961980</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 16:06:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_74128_justin_app_justin_application_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 16:06:32</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e754df81db231340a49f7d9ebf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_74128_justin_app_justin_application_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Justin_application" source="x_74128_justin_app">c1c39f41db231340a49f7d9ebf961973</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Justin_application">c1c39f41db231340a49f7d9ebf961973</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e754df81db231340a49f7d9ebf961979</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 16:06:32</sys_updated_on>
+            <sys_user/>
+            <view display_value="cab_workbench" name="cab_workbench">20699ec6db3022004d27b31be0b8f546</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
