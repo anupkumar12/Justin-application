@@ -50,7 +50,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-07-25 16:06:32</sys_updated_on>
             <sys_user/>
-            <view display_value="Emergency" name="Emergency">a6e84986db312200a49f3d9ebf961970</view>
+            <view display_value="">a6e84986db312200a49f3d9ebf961970</view>
             <view_name/>
         </sys_ui_form>
     </sys_ui_form_sections>
